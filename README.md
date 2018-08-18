@@ -6,3 +6,9 @@ Lets avoid it
 
 
 Pull request
+
+Lets try to conflict.
+
+
+This is importtant but not now so lets stash it.
+
